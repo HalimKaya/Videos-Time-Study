@@ -3,12 +3,14 @@ Author: [Your Name]
 Overview
 This project is designed for video time analysis, allowing users to mark specific timestamps, save annotations, and generate pie charts based on recorded durations. The application is built using PyQt5 for the GUI, OpenPyXL for Excel integration, and Matplotlib for visualizations.
 Features
-•	Play, pause, forward, and rewind video functionality.
+
+•	Play, pause, forward, and rewind video functionality./n
 •	Mark timestamps with labels.
 •	Store timestamps in a table.
 •	Save annotations as an Excel file.
 •	Generate pie charts representing the duration of marked events.
 •	Display pie charts within the application.
+
 Installation
 Prerequisites
 Ensure you have Python installed along with the following dependencies:
