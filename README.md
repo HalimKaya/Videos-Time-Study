@@ -19,11 +19,14 @@ Features
 
 •	Display pie charts within the application.
 
+![Screen](https://github.com/HalimKaya/Videos-Time-Study/blob/main/Screen.png)
 
 Installation
 Prerequisites
 Ensure you have Python installed along with the following dependencies:
-'''pip install pyqt5 openpyxl matplotlib pandas'''
+
+pip install pyqt5 openpyxl matplotlib pandas
+
 Usage
 1.	Run the application by executing:
 python main.py
