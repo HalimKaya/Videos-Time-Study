@@ -1,7 +1,10 @@
 Video Time Study
-Author: [Your Name]
+
+
 Overview
 This project is designed for video time analysis, allowing users to mark specific timestamps, save annotations, and generate pie charts based on recorded durations. The application is built using PyQt5 for the GUI, OpenPyXL for Excel integration, and Matplotlib for visualizations.
+
+
 Features
 
 •	Play, pause, forward, and rewind video functionality.
@@ -20,7 +23,7 @@ Features
 Installation
 Prerequisites
 Ensure you have Python installed along with the following dependencies:
-("pip install pyqt5 openpyxl matplotlib pandas")
+'''pip install pyqt5 openpyxl matplotlib pandas'''
 Usage
 1.	Run the application by executing:
 python main.py
